@@ -5,3 +5,5 @@ In this project:
 2. Uploaded the data into Streamlit;
 3. If you change the parameters in the left side of the dashboard, it will change the values of the column "AlertPriority" of the table;
 4. You can also see some metrics and graphs that will change according to the parameters.
+
+The link to access the dashboard: https://simulation-table-graphs.streamlit.app/
