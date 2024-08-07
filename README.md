@@ -1,4 +1,4 @@
-# 👑 Simulating table parameters with Streamlit
+# 👑 Changing table parameters with Streamlit
 This project was developed to design a dashboard with Streamlit.
 In this project: 
 1. Created a table with **FAKE** data with customers and alerts;
